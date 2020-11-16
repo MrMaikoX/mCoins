@@ -1,0 +1,7 @@
+name: mCoins
+version: 1.0-SNAPSHOT
+description: https://github.com/MrMaikoX/mCoins
+author: MaikoX
+main: gg.maiko.mcoins.mCoins
+commands:
+  coins:

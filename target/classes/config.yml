@@ -1,0 +1,11 @@
+MONGO:
+  HOST: "127.0.0.1"
+  PORT: 27017
+  DATABASE: mCoins
+  AUTH:
+    ENABLED: FALSE
+    USER: MaikoX
+    PASSWORD: password1234
+
+COINS:
+  STARTING: 50

@@ -1,0 +1,5 @@
+gg\maiko\mcoins\commands\CoinCommands.class
+gg\maiko\mcoins\profile\ProfileListener.class
+gg\maiko\mcoins\profile\Profile.class
+gg\maiko\mcoins\database\CoinsMongo.class
+gg\maiko\mcoins\mCoins.class
